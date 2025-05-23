@@ -27,3 +27,4 @@ Select top k components to reduce dimensions.
 
 Project data onto these principal components.
 
+PCA using Sklearn: https://www.kaggle.com/code/ashish15003/pca-demo-1/edit
